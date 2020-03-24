@@ -11,7 +11,6 @@ int main(){
     if(buoni == NULL){
         printf("Impossibile aprire il file. Errore!");
         exit(1);
-        return 1;
     }
 
     // generalita'
